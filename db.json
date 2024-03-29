@@ -1,0 +1,84 @@
+{
+  "QuizQuestions": [
+    {
+      "Question": "What is the most dangerous type of volcanic eruption?",
+      "Option_1": "A).Effusive eruption",
+      "Option_2": "B).Strombolian eruption",
+      "Option_3": "C).Plinian eruption",
+      "Option_4": "D).Hawaiian eruption",
+      "Correct_Answer": "C).Plinian eruption"
+    },
+    {
+      "Question": "What is the leading cause of death during a volcanic eruption?",
+      "Option_1": "A).Lava flows",
+      "Option_2": "B).Pyroclastic flows",
+      "Option_3": "C).Ashfall",
+      "Option_4": "D).Gas emissions",
+      "Correct_Answer": "B).Pyroclastic flows"
+    },
+    {
+      "Question": "What is the Fujita scale used to measure?",
+      "Option_1": "A).Tornado intensity",
+      "Option_2": "B).Hurricane intensity",
+      "Option_3": "C).Volcanic eruptions",
+      "Option_4": "D).Earthquake magnitude",
+      "Correct_Answer": "A).Tornado intensity"
+    },
+    {
+      "Question": "How do you safely approach a downed power line?",
+      "Option_1": "A).Touch it with a wooden stick",
+      "Option_2": "B). Call emergency services",
+      "Option_3": "C).Step over it carefully",
+      "Option_4": "D).Ignore it and continue on your way",
+      "Correct_Answer": "B). Call emergency services"
+    },
+    {
+      "Question": "What is the difference between a flash flood and a regular flood?",
+      "Option_1": "A).Flash floods occur suddenly",
+      "Option_2": "B).Regular floods last longer",
+      "Option_3": "C).Flash floods only occur in urban areas",
+      "Option_4": "D).Regular floods are caused by hurricanes",
+      "Correct_Answer": "A).Flash floods occur suddenly"
+    },
+    {
+      "Question": "What is the most common cause of oil spills in the ocean?",
+      "Option_1": "A).Tanker collisions",
+      "Option_2": "B).Offshore drilling",
+      "Option_3": "C).Human error during transportation",
+      "Option_4": "D).Natural seepage",
+      "Correct_Answer": "C).Human error during transportation"
+    },
+    {
+      "Question": "How do you safely evacuate during a chemical spill?",
+      "Option_1": "A).Open windows for ventilation",
+      "Option_2": "B).Stay indoors until authorities arrive",
+      "Option_3": "C).Follow evacuation routes and instructions",
+      "Option_4": "D).Pour water on the spill",
+      "Correct_Answer": "C).Follow evacuation routes and instructions"
+    },
+    {
+      "Question": "What is the leading cause of workplace accidents?",
+      "Option_1": "A).Falls",
+      "Option_2": "B).Machinery malfunction",
+      "Option_3": "C).Lack of training",
+      "Option_4": "D).Poor lighting",
+      "Correct_Answer": "A).Falls"
+    },
+    {
+      "Question": "How can you prevent slips, trips, and falls?",
+      "Option_1": "A).Wear shoes with no traction",
+      "Option_2": "B).Keep walkways clear of obstacles",
+      "Option_3": "C).Run instead of walking",
+      "Option_4": "D).Ignore wet floors",
+      "Correct_Answer": "B).Keep walkways clear of obstacles"
+    },
+    {
+      "Question": "What is the recommended emergency kit item for power outages?",
+      "Option_1": "A).Flashlight",
+      "Option_2": "B).Candles",
+      "Option_3": "C).Electric heater",
+      "Option_4": "D).Blanket",
+      "Correct_Answer": "A).Flashlight"
+    }
+  ]
+}
